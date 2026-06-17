@@ -1,4 +1,4 @@
-# 🤖 Walmart Tech Centroamérica
+# 🤖 Walmart Tech Centroamérica-Impulsando el futuro del retail en la región
 
 Estamos a la vanguardia de las tecnologías más innovadoras, inspirados por la visión de transformar el retail a través de la tecnología.
 
