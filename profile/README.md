@@ -28,8 +28,9 @@ Creemos en:
 - Mentalidad de crecimiento
 - Liderazgo en todos los niveles
 
-## 🎯 Únete a nuestro equipo
+## 🎯 Sumate a la transformación tecnológica de Centroamérica
 
 Buscamos talento apasionado por la tecnología, la innovación y la resolución de desafíos complejos.
 
  **Explorá nuestras vacantes:** https://www.esteesellugar.com/empleoswalmartcentroamerica
+ 
