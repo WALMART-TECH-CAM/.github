@@ -1,25 +1,33 @@
-# 🚀 Walmart Centroamérica Tech
+# 🤖 Walmart Tech Centroamérica
 
-Tecnología que impulsa el futuro del retail en Centroamérica.
+Estamos a la vanguardia de las tecnologías más innovadoras, inspirados por la visión de transformar el retail a través de la tecnología.
 
-## 🌎 ¿Quiénes somos?
+## 🌎👾 ¿Quiénes somos?
 
-Somos un equipo de tecnología que desarrolla soluciones con impacto para millones de clientes y asociados en la región.
+Somos un equipo multidisciplinario que desarrolla soluciones tecnológicas para uno de los ecosistemas de retail más importantes de Centroamérica.
+Trabajamos para crear experiencias digitales innovadoras, optimizar operaciones y generar valor para millones de personas en toda la región.
 
-## 💻 Áreas
 
-- Ingeniería de Software
-- Datos y Analítica
-- Inteligencia Artificial
-- Cloud Engineering
-- Ciberseguridad
-- UX/UI
-- Product Management
+## 💻 Áreas de oportunidades
 
-## 💙 Nuestra cultura
+- Technical Program Management
+- Architecture 
+- Software Engineering
+- Data
+- Media / Marketing
+- Strategy and Financial Solutions
 
-Innovación, colaboración y crecimiento continuo.
+## 💚 Nuestra cultura
+
+Creemos en:
+- Innovación con propósito
+- Aprendizaje continuo
+- Trabajo colaborativo
+- Mentalidad de crecimiento
+- Liderazgo en todos los niveles
 
 ## 🎯 Únete a nuestro equipo
 
-Construimos el futuro del retail todos los días.
+Buscamos talento apasionado por la tecnología, la innovación y la resolución de desafíos complejos.
+
+ **Explorá nuestras vacantes:** https://www.esteesellugar.com/empleoswalmartcentroamerica
